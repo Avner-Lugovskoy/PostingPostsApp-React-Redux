@@ -1,0 +1,10 @@
+[1019/221650.817:ERROR:settings.cc(430)] Settings version is not 5
+[1019/222651.038:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\bahur\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\718f54b1-fdd3-44f8-997a-e147c6d7e5ed: Системе не удается найти указанный путь. (0x3)
+[1019/222651.069:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\bahur\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\77c9be34-d360-43d4-89cb-c9738107365f: Системе не удается найти указанный путь. (0x3)
+[1019/222651.085:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\bahur\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\7991c6c6-5c63-420a-a464-78d1804acd72: Системе не удается найти указанный путь. (0x3)
+[1019/222651.085:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\bahur\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\b5b11645-9b91-470b-bf00-69ede11307ef: Системе не удается найти указанный путь. (0x3)
+[1019/222651.085:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\bahur\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\bc7e2cf4-c8fe-4867-ac2d-17bcd3490e33: Системе не удается найти указанный путь. (0x3)
+[1019/222651.085:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\bahur\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\cd1f4a2c-ce38-40bc-9b29-52c37ab88f5d: Системе не удается найти указанный путь. (0x3)
+[1019/222651.085:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\bahur\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\f4d542e0-b167-4744-9600-2bbce6c163e8: Системе не удается найти указанный путь. (0x3)
+[1019/222651.085:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1022/000142.216:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
